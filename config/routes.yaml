@@ -1,0 +1,6 @@
+home:
+  path: /
+  controller: App\Controller\TeleworkController::index
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
